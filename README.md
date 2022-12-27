@@ -7,7 +7,7 @@
 </div>
 
 
-# Hey there👋, Welcome to my Github Profile
+# Hey there👋, Welcome to my 𝐕𝐀𝐑𝐓𝐇𝐘𝐀 𝐒𝐑𝐈𝐊𝐀𝐍𝐓𝐇
  
 <p>- <i><b>A comp-sci undergraduate student and a aspiring Software Developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code.</b></i></p>
 
