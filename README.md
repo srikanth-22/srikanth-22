@@ -23,7 +23,7 @@
 - 💡 I’m curious about ---> Blockchain and Crypto Currency.
 - 📖 Currently a learner.
 - ❄️ I’m looking to collaborate on ---> Open Source Projects.
-- 📫 How to reach me ---> varthya.srikanthnayak@gmail.com.
+- 📫 How to reach me ---> varthya.srikanthnayak@gmail.com
 
 <hr>
 
