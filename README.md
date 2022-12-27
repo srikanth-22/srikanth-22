@@ -9,7 +9,7 @@
 
 # Hey there👋, Welcome to my Github Profile
  
- <p>- <i>A comp-sci undergraduate student and a aspiring Software Developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code.</i></p>
+<p>- <i><b>A comp-sci undergraduate student and a aspiring Software Developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code.</b></i></p>
 
 
 <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="30%" align="right" />
